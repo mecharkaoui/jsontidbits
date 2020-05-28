@@ -1,10 +1,13 @@
 {
-    "tidbit": "The Document Object Model (DOM) is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. ",
-    "level1": "Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.",
-    "level2": "no strings attached",
-    "tags": [
-        "HTML",
-        "HTTP",
-        "CODING"
-    ]
+    "Bluetooth" : {
+"level 1":[ "Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and medical radio bands, from 2.402 GHz to 2.480 GHz, and building personal area networks (PANs). It was originally conceived as a wireless alternative to RS-232 data cables.Bluetooth is managed by the Bluetooth Special Interest Group (SIG). A manufacturer must meet Bluetooth SIG standards to market it as a Bluetooth device."
+
+],
+"level 2":[ "Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and medical radio bands, from 2.402 GHz to 2.480 GHz, and building personal area networks (PANs). It was originally conceived as a wireless alternative to RS-232 data cables.Bluetooth is managed by the Bluetooth Special Interest Group (SIG). A manufacturer must meet Bluetooth SIG standards to market it as a Bluetooth device."
+],
+"level 3":[ "Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and medical radio bands, from 2.402 GHz to 2.480 GHz, and building personal area networks (PANs). It was originally conceived as a wireless alternative to RS-232 data cables.Bluetooth is managed by the Bluetooth Special Interest Group (SIG). A manufacturer must meet Bluetooth SIG standards to market it as a Bluetooth device."
+],
+"related":[ "- HTML - computer science - awesomeness"
+]
+} 
 }
