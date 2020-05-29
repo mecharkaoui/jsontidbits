@@ -1,8 +1,25 @@
 {
-   "Bluetooth": {
+   "tidbit": {
+      "entry" : "Bluetooth",
       "levels": [
          {
-            "level 1": "Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and medical radio bands, from 2.402 GHz to 2.480 GHz, and building personal area networks (PANs). It was originally conceived as a wireless alternative to RS-232 data cables.Bluetooth is managed by the Bluetooth Special Interest Group (SIG). A manufacturer must meet Bluetooth SIG standards to market it as a Bluetooth device."
+            "level 1": [
+         { 
+            "text": "Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and medical radio bands, from 2.402 GHz to 2.480 GHz, and building personal area networks (PANs). It was originally conceived as a wireless alternative to RS-232 data cables.Bluetooth is managed by the Bluetooth Special Interest Group (SIG). A manufacturer must meet Bluetooth SIG standards to market it as a Bluetooth device."
+         },
+         {
+            "related" : [
+               {
+                  "1" : "UHF",
+                  "2" : "UTI"
+                  
+               }
+               
+               ]
+            
+         }
+         ]
+            
          },
          {
             "level 2": "In 1997, Adalio Sanchez, then head of IBM ThinkPad product R&D, approached Nils Rydbeck about collaborating on integrating a mobile phone into a ThinkPad notebook. The two assigned engineers from Ericsson and IBM to study the idea. The conclusion was that power consumption on cellphone technology at that time was too high to allow viable integration into a notebook and still achieve adequate battery life."
@@ -12,14 +29,6 @@
          }
       ],
       "meta": {
-      "related" : [
-         {
-         "1": "UHF"
-         },
-                  {
-         "2": "HTML"
-         }    
-         ],
       "tags" : [
          {
          "1": "network"
