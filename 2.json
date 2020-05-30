@@ -1,0 +1,38 @@
+{
+    "tidbit": {
+        "entry": "UHF",
+        "levels": [
+            {
+                "level 1": [
+                    {
+                        "text": "Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter (one decimeter). UHF radio waves propagate mainly by line of sight; they are blocked by hills and large buildings although the transmission through building walls is strong enough for indoor reception. They are used for television broadcasting, cell phones, satellite communication including GPS, personal radio services including Wi-Fi and Bluetooth, walkie-talkies, cordless phones, and numerous other applications."
+                    },
+                    {
+                        "related": [
+                            {
+                                "1": "ITU",
+                                "2": "Line-of-sight propagation"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level 2": "none"
+            },
+            {
+                "level 3": "none"
+            }
+        ],
+        "meta": {
+            "tags": [
+                {
+                    "1": "network"
+                },
+                {
+                    "2": "tech"
+                }
+            ]
+        }
+    }
+}
