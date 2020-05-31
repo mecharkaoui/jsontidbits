@@ -1,10 +1,10 @@
 {
     "Bluetooth": {
-        "index": "1",
+        "index": 1,
         "origin": "riverbank"
     },
     "UHF": {
-        "index": "2",
+        "index": 2,
         "origin": "rabbitHole"
     }
 }
