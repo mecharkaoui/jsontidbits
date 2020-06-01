@@ -10,5 +10,21 @@
     "ITU": {
         "index": 3,
         "origin": "rabbitHole"
-    }
+    },
+    "Content delivery network": {
+        "index": 4,
+        "origin": "riverbank"
+    },
+    "Proxy server": {
+        "index": 5,
+        "origin": "rabbitHole"
+    },
+    "Internet backbone": {
+        "index": 6,
+        "origin": "rabbitHole"
+    },
+    "Point of presence": {
+        "index": 7,
+        "origin": "riverbank"
+    }    
 }
