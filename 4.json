@@ -1,0 +1,39 @@
+{
+    "tidbit": {
+        "entry": "Bluetooth",
+        "levels": [
+            {
+                "level 1": [
+                    {
+                        "text": "A content delivery network is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end users. CDN is an umbrella term spanning different types of content delivery services: video streaming, software downloads, web and mobile content acceleration... CDN nodes are usually deployed in multiple locations, often over multiple Internet backbones. Benefits include reducing bandwidth costs, improving page load times, or increasing global availability of content. The number of nodes and servers making up a CDN varies, depending on the architecture, some reaching thousands of nodes with tens of thousands of servers on many remote points of presence (PoPs)."
+                    },
+                    {
+                        "related": [
+                            {
+                                "1": "Proxy server",
+                                "2": "Internet backbone",
+                                "3": "Point of presence"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level 2": "no level 2"
+            },
+            {
+                "level 3": "no level 3"
+            }
+        ],
+        "meta": {
+            "tags": [
+                {
+                    "1": " "
+                },
+                {
+                    "2": " "
+                }
+            ]
+        }
+    }
+}
