@@ -1,0 +1,37 @@
+{
+    "tidbit": {
+        "entry": "UHF",
+        "levels": [
+            {
+                "level 1": [
+                    {
+                        "text": "The International Telecommunication Union, originally the International Telegraph Union, is a specialized agency of the United Nations that is responsible for issues that concern information and communication technologies. It is the oldest global international organization. //n The ITU coordinates the shared global use of the radio spectrum, promotes international cooperation in assigning satellite orbits, works to improve telecommunication infrastructure in the developing world, and assists in the development and coordination of worldwide technical standards"
+                    },
+                    {
+                        "related": [
+                            {
+                                "1": " "
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level 2": "none"
+            },
+            {
+                "level 3": "none"
+            }
+        ],
+        "meta": {
+            "tags": [
+                {
+                    "1": "network"
+                },
+                {
+                    "2": "tech"
+                }
+            ]
+        }
+    }
+}
